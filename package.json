@@ -1,0 +1,30 @@
+{
+  "name": "stack-tutor",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louis935/Mean-Stack-Angular7.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "7",
+    "Application"
+  ],
+  "author": "Ejeh Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louis935/Mean-Stack-Angular7/issues"
+  },
+  "homepage": "https://github.com/louis935/Mean-Stack-Angular7#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
